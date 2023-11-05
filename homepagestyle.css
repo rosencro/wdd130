@@ -1,0 +1,58 @@
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 10px 5px;
+    color: #c45069;
+}
+nav a{
+    text-align: center;
+    text-decoration: none;
+    background-color: #593279;
+    color: #f4e9c0;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav a:hover{
+    color: hsl(273, 42%, 34%);
+    background-color: #b3dbee;
+}
+body{
+    background-color: #13163f;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.home-msg{
+    margin: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+    color:#c45069;
+    border: 3px double #593279;
+}
+p{
+    color:#c45069;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    padding: 10px 150px;
+    background-color:#b3dbee ;
+}
+.note{
+    text-align: center;
+    padding: 10px;
+    background-color: #593279;
+    color: #13163f;
+    margin-bottom: 20px;
+}
+.snail-lol{
+
+    margin:0 auto;
+    padding: 400px;
+    padding-bottom: 50px;
+    width: 50%;
+}
+
+
+/* Colors to use: #c45069 (dark rose pink color) #13163f (dark navy-ish color) #593279 (warm mid-purple color) #f4e9c0 (very pale yellow color) #b3dbee (very very pale sky blue color)/*
