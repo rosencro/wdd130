@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Skranji:wght@700&display=swap');
+
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -12,6 +14,7 @@ nav a{
 #hero_msg h4{
     text-align: center;
     color: #1d3f5d;
+    font-family: 'Skranji', Times, serif;
 }
 .button_box{
     text-align: center;
@@ -34,6 +37,7 @@ nav a{
     background-color: #f5f7a7;
     color: #1d3f5d;
     text-decoration: none;
+    font-family: "Cabin", Helvetica, sans-serif;
 }
 nav a:hover{
     background-color: #FFAD05;
@@ -43,35 +47,49 @@ nav a:hover{
     background-color: #f5f7a7;
     color: #1d3f5d;
     text-decoration: none;
+    font-family: "Cabin", Helvetica, sans-serif;
+    font-size: 18px;
 }
 .book:hover{
     background-color: #FFAD05;
     color: #f5f7a7;
     text-decoration: none;
+    font-family: "Cabin", Helvetica, sans-serif;
+    font-size: 18px;
 }
 .join{
     background-color: #f5f7a7;
     color: #1d3f5d;
     text-decoration: none;
+    font-family: "Cabin", Helvetica, sans-serif;
+    font-size: 18px;
 }
 .join:hover{
     background-color: #FFAD05;
     color: #f5f7a7;
+    font-size: 18px;
+    font-family: "Cabin", Helvetica, sans-serif;
 }
 .msg{
     background-color: #1d3f5d;
+    line-height: 1.5em;
 }
 .msg h2{
     color:#FFAD05;
+    font-family: 'Skranji', Times, serif;
 }
 .msg p{
     color: #FFAD05;
+    font-family: "Cabin", Helvetica, sans-serif;
+    font-size: .8em;
 }
-.home-title{
-    color: magenta;
+.home_title{
+    font-family: 'Skranji', Times, serif;
+    font-size: 2em;
 }
-h4{
-    color:maroon;
+h2{
+    color:#1d3f5d;
+    font-family: "Cabin", Helvetica, sans-serif;
 }
 footer{
     background-color: #1d3f5d;
@@ -86,6 +104,7 @@ footer a:hover{
 }
 footer p{
     font-size: 1.2em;
+    font-family: "Cabin", Helvetica, sans-serif;
 }
 footer p a{
     text-decoration: underline;
