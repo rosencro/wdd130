@@ -8,6 +8,10 @@ h1{
     padding: 10px 5px;
     color: #c45069;
 }
+nav{
+    display: flex;
+    justify-content: center;
+}
 nav a{
     text-align: center;
     text-decoration: none;
