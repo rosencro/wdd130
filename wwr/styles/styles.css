@@ -209,6 +209,30 @@ footer p a{
 footer .social img{
     padding-top: 15px;
 }
+.faqs{
+    align-self: center;
+    margin: auto;
+}
+.faq-words{
+    font-size: 1em;
+    font-family: 'Cabin', Helvetica, sans-serif;
+    margin-left:20em;
+    margin-right: 20em;
+    padding-left: 15px;
+}
+.faq-welcomewords{
+    font-size: 25px;
+    font-family:'Skranji', Times, serif;
+    background-color: #f5f7a7;
+    text-align: center;
+    margin-top: 2em;
+}
+.faq-title{
+    font-size: 25px;
+    font-family:'Skranji', Times, serif;
+    background-color: #f5f7a7;
+    text-align: center;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
