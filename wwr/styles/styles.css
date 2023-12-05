@@ -209,29 +209,29 @@ footer p a{
 footer .social img{
     padding-top: 15px;
 }
-.faqs{
-    align-self: center;
-    margin: auto;
-}
+
 .faq-words{
     font-size: 1em;
     font-family: 'Cabin', Helvetica, sans-serif;
-    margin-left:20em;
-    margin-right: 20em;
+    margin-left: 200px;
+    margin-right: 200px;
     padding-left: 15px;
+    background-color:#5994ed8f;
+    text-align: justify;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .faq-welcomewords{
-    font-size: 25px;
+    font-size: 50px;
     font-family:'Skranji', Times, serif;
-    background-color: #f5f7a7;
+    background-color: #f6f7a78e;
     text-align: center;
-    margin-top: 2em;
+    color:#eda20c;
+    z-index: 1;
 }
-.faq-title{
-    font-size: 25px;
-    font-family:'Skranji', Times, serif;
-    background-color: #f5f7a7;
-    text-align: center;
+#faq-title-image{
+ width: 100%;  
+ z-index: 0; 
 }
 
 @media screen and (max-width: 900px) {
